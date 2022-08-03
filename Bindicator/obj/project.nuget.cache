@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2jzGrKT6GsE6aqzQ/yYyNEZtqrZQdEStx+4tpJxx3cAbPCROmxaCQw9dmlOCo40VNefOP0+Z9QEKQ5pQgbrNDA==",
+  "dgSpecHash": "KgH70uz8zp60f6XkyuSq802EhSKSmo8wIm+K3J05csWO9/qDAC1fRenBk6VpkTwa1+aJmv6MAn2H+WZc1wmnvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\Bindicator\\Bindicator.csproj",
+  "projectFilePath": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\Bindicator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jacob\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\Jacob\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",

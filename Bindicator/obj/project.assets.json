@@ -655,11 +655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\Bindicator\\Bindicator.csproj",
+      "projectUniqueName": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\Bindicator.csproj",
       "projectName": "Bindicator",
-      "projectPath": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\Bindicator\\Bindicator.csproj",
+      "projectPath": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\Bindicator.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\Bindicator\\obj\\",
+      "outputPath": "C:\\Users\\Jacob\\source\\repos\\bindicator-cs\\Bindicator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
